@@ -1,0 +1,26 @@
+[
+    {
+        "name": "john doe",
+        "age": 23,
+        "email": "john.doe@gmail.com",
+        "pin": 1234,
+        "accountNo.": "1234",
+        "balance": 0
+    },
+    {
+        "name": "john smith",
+        "age": 24,
+        "email": "john.smith@gmail.com",
+        "pin": 1342,
+        "accountNo.": "17eL0k@",
+        "balance": 1000
+    },
+    {
+        "name": "john wick",
+        "age": 23,
+        "email": "john.wick@gmail.com",
+        "pin": 2345,
+        "accountNo.": "x2N@G46",
+        "balance": 0
+    }
+]
